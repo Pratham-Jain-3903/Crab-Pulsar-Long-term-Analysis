@@ -22,6 +22,8 @@ AstroSat data is available for download from the AstroSat data archive portal of
 
 For more details on data analysis, refer to the AstroSat Science Support Cell (ASSC) page at http://astrosat-ssc.iucaa.in/data_and_analysis
 
+Data we filtered can be found at : https://drive.google.com/drive/folders/1oWiSo6ozi3ZaSA9RaeolKJA8l0dKcsdN?usp=sharing
+
 ## Tools and Technologies
 
 - AstroSat specific analysis software (as mentioned on the respective instrument website at the AstroSat Science Support Cell)
